@@ -3,8 +3,7 @@ background-color: green;
 background-image: url(../img/house.jpg), url(../img/hedgehog.png), url(../img/lamp.png), url(../img/grass.png), url(../img/donut.png);
 background-position: center, left, top, bottom, right;
 background-repeat: no-repeat, repeat-y, repeat-x, repeat-x, repeat-y;
-background-size: 400px, 30px, 30px, 250px, 30px;
+background-size: 500px, 30px, 30px, 250px, 30px;
 height: 574px;
 width: 100%;
-background-clip: border-box;
 }
